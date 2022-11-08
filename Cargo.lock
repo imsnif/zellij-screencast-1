@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "test-project"
+name = "zellij-screencast-1"
 version = "0.1.0"
